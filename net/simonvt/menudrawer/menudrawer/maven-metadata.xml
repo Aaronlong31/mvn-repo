@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>android-menudrawer</groupId>
+  <groupId>net.simonvt.menudrawer</groupId>
   <artifactId>menudrawer</artifactId>
-  <version>snapshot</version>
+  <version>3.0.4</version>
   <versioning>
     <versions>
-      <version>snapshot</version>
-      <version>3.0.5-SNAPSHOT</version>
       <version>3.0.4</version>
     </versions>
-    <lastUpdated>20130812054415</lastUpdated>
+    <lastUpdated>20130812062223</lastUpdated>
   </versioning>
 </metadata>
